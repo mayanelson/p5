@@ -1,0 +1,435 @@
+﻿E7SF: Science Fiction and Fantasy                                        Sam Cowan
+Stuyvesant High School                                        January 18, 2023
+                                        
+2062: Expanded
+
+
+Notes
+View Final Project Website: https://sf-app-sftls.ondigitalocean.app/ 
+There are a few minor differences between doc and website, mainly the naming of chapters. The intention is for it to be viewed as a website
+(Only for a month or so though since it uses up my free credit)
+
+
+
+
+April 1st, 2062
+Chapter 1: An April Fool
+        “What do you see?”
+        “Excuse me?” says the stranger sitting at the Bus Stop.
+        “I mean it. What’s this one showing you right now?” I gesture toward the conspicuously large advertisement shielding him from the crowded streets.
+“Right now? It’s a little winery upstate near where I’ve been helping plan my sister’s wedding. Probably competing with a few others for our checkbook.”
+I study the same advertisement. A familiar yet unwelcome face fills the screen. John Doe is a real character on Twitter, who I can't stand. His profile picture pins him as around my age, but I suspect it's a front for a much younger man. He's running for mayor, it says, and the right candidate for New York, at that. I chuckle a little at the thought of a man famous in part for his anonymity seeking public office. The only bright side is that I will get to see his real face as I humiliate him on Election Night. Sidney Hargrave will not lose to a Twitter personality.
+Not that this is at all interesting to this stranger, who doesn’t even recognize that I’m his current mayor. But being mayor has not been a popular job for quite some time. The career-killer, they call it - I have little future in politics after my second term ends. It doesn't sound so bad to me though, to have some assemblance of power. I don't even mention it.
+"A woman down the street," I say, "told me she saw her optometrist here, right from her window, clearer than she has seen anything in years. They can program the NanoCore to function like a lens."
+"That's good for her," says the stranger tentatively. He gets up from the bench the moment the bus appears into view.
+[Google Earth video showing bus stop ad from several different perspectives (which means different ads)]
+
+
+
+
+
+
+Chapter 2: The Rise
+
+
+June 17, 2062
+Hargrave Campaign Headquarters
+
+
+
+
+Lisa: Sid, I won’t lie - it’s not looking amazing. I’m beginning to think this won’t be the cakewalk we had envisioned for this second term.
+Sidney: Ok, lay it on. What are the numbers?
+Lisa: Ok, remember how your approval was at 70% just three months ago? Our internals say it’s barely over 50% now.
+Sidney: You mean, Doe’s attack ads have been working. The ones I’ve seen.
+Lisa: Exactly. Although, with the NanoCore you never know if you get one completely different from everyone else.
+Sidney: Right. Holographic nanotechnology on billboards. And I’m the only one in the city who’s still uncomfortable with it?
+Lisa: I think, in the nicest way possible, that you haven’t seen a whole lot of the city these last few years. You’ve got a security detail following you at all times, and you rarely leave Gracie Mansion. The NanoCore has been everywhere in most people’s lives for five years or so, while you’ve been shielded.
+Sidney: Doesn’t take long for privacy invasion to be normalized, huh. I don’t even know what life was like before our cell phone data was tracked, but I do remember the days before they could see into our homes.
+Lisa: To most folks, life just goes on.
+.
+Anyway, our poll had you still up by 10. John Doe is still an unknown, and you certainly aren’t universally hated.
+Sidney: I still don’t understand how the fuck 500,000 people would vote for someone who won’t even show them his face. 
+Lisa: Honestly, I’m starting to think they view it as a plus. The NanoCore has changed everything, and people feel comfortable talking to a hologram like him. Streamers used virtual avatars back in the 2020s, so it’s not completely new to most people.
+Sidney: I just can’t believe it could end like this. Well, I am still winning, but I don’t have a great feeling about this. This guy’s a professional troll - I thought that would make him easy to handle, but he’s been anything but that.
+
+
+Lisa: I hate to say it, Sid, but you might need to pick the nuclear option
+*whispers: The NanoCore
+
+
+Sidney: What did you say?
+        Don’t answer that, I heard you. It’s out of the question. The NanoCore will be gone one day - it’s far too invasive to stick around - and even if I lose, I want to be on the right side of history.
+.
+Lisa, if nobody digs up any dirt on Doe in the next few days, we may have to take it into our own hands
+
+
+
+
+The times are changing, Sidney. Don’t vote for a mayor who doesn’t change with them.
+
+
+Paid for by the Committee to Elect John Doe
+
+
+
+
+The times are changing, Sidney. Be prepared to change with them
+
+
+Paid for by the Committee to Elect John Doe
+
+
+Vote for a candidate whose mind isn’t trapped in the 2020s. Just give up now, Sidney.
+
+
+Paid for by the Committee to Elect John Doe
+
+
+
+
+
+
+[TLHOD PAPER]:
+The Keeper of Secrets
+The month was July of 2062, and my subway ads were going through a self-improvement phase, or so I liked to call it. In a few days time, they would let up and move on to a new type - the others were usually insurance-related or single-shaming. For now, I was still barraged with a variety of irritating ads. Many were insulting, and some I remember were particularly unnerving: a hair loss cream accompanied by before and after pictures of my own receding hairline, an interior design consultant with a picture of my own living room, decked out in an admittedly appealing baby blue color, with a vase of ruby red roses on my coffee table. At the onset of the NanoCore around five years earlier, shortly before I gained my fortune, they advertised me job opportunities, some of which I dutifully considered. But I had lived my last few years running around and capturing photographs of a certain type, the images of partners stupid enough to cheat on the uber-rich barons of New York City. Now I was marked by the algorithms as a commodity. If I ever chose to supplant my simple but comfortable living conditions with a life of luxury, there was a company out there which stood to gain.
+I was never shown the ads I myself sponsored, of course, but my NanoCore agent would reassure me that those in power did often, whether on a billboard across the street from their window, or on the side of a bus as their limousine drove by. To this day, I don’t know what was in those advertisements - I imagine them like the billboards of my youth, a still image with my face front and center, surrounded by a mysterious slogan, like “Looking to Uncover a Secret?” Alas, the NanoCore companies knew more about me than I did, so I left it all up to them.
+All that really matters is whichever way my name was presented to Sidney Hargrave, it left an impression, mostly likely one she didn’t initially recognize (with her aversion in those days to the NanoCore). This connection would ultimately lead me to a discovery much bigger than anything I could ever have imagined.
+***
+Host: Good morning, and welcome to NewsRadio 101, YOUR number one source for news in our great city. Me? I’m your host, Ava Skye. Today’s guest host is New York’s own, Twitter personality turned mayoral candidate John Doe, who is joining us as part of his campaign for Mayor of New York City. Welcome to the show, John… or whatever your real name is.
+
+
+John Doe: Thank you for having me. It's great to be here.
+
+
+Host: So, John, you've made headlines recently with your… how should I put it… unique campaign strategy. Can you explain why you've made the decision to maintain your anonymity and only make public appearances as a hologram?
+
+
+John Doe: Well, the world is changing, and because of that the way we do politics needs to change as well. I want to be able to connect with voters in a way that is more personal and engaging. By using holographic technology, I can be present at multiple events at the same time, and have more direct, face to face interactions with the people of New York City.
+
+
+Host: John, as you know, your opponent, incumbent mayor Sidney Hargrave, has made a spectacle of her refusal to advertise via the NanoCore, citing reasons of privacy. As for you, I’ve already seen your avatar on screens all over Times Square. Do you not share her concerns? And if not, do you believe the voters will agree with you?
+
+
+John Doe: Sidney Hargrave is so afraid of the NanoCore that she can’t even leave her own home. With all due respect, there aren’t many New Yorkers like Sidney Hargrave.
+
+
+Host: Stay right there, everyone. We’re about to speak with former Mayor, Emily Rodriguez, to see what she thinks about John’s curious campaign
+
+
+
+
+***
+Televerse Communications, telephone records
+Caller: Sidney Hargrave
+Receiver: Samir [REDACTED]
+7-10-2062|21:33
+
+
+Samir [REDACTED], who’s calling?
+                                Samir? This is Sidney Hargrave, I’m sure you know who I am. Listen. I have a job for you.
+You want me to find Doe?
+I need your verbal commitment before I tell you. I can pay more than your standard rate.
+If it’s him you want me to find, I’m in
+Let’s keep this call short. I’m sending you a briefcase. 
+Everything we know about him is inside.
+***
+I received Sidney’s package the next morning, and opened it to find a pitifully small stack of papers inside, which somehow contained even less useful information than I had expected. Almost all of it could have been found over the internet. It was at least useful as an aggregation tool - practically everything publicly available on Doe had been printed here. There were transcripts of his radio interviews, and archives of his politically-minded twitter posts, few of which hinted at any kind of agenda outside of expanding the NanoCore. The pictures of his holographic avatar were hardly worth the ink. What did help was Sidney’s list of Doe’s allies. Real people, or at least so I assumed, people who I could truly suck information out of. 
+I spent a few days tracking down and following Doe’s closest advisor, former congresswoman Zephyr “The Fixer” Windstalker. But despite the many calls I heard her take from him, she never revealed anything about his identity, or his location, and she never met him in person - she knew shockingly, suspiciously little about the man. 
+The next few months were more of the same - I would look long and hard into a lead, and find myself no closer to the mystery that was John Doe. All the while, Sidney would call me up (cryptically, as was her fashion), and inform me of her dwindling, and later negative lead in the weekly polls her team ran. The problem I began to run into at this point was one I had never experienced in my career - I wanted to find him as much as Sidney did. I had never had a case this hard, had never had a target as well hidden as Doe, and I was sick and tired of calling him by that name, which perpetually mocked me, screaming out that I had as of yet failed to identify him. As I was slowly realizing, someone this hard to find had a secret of nuclear proportions to hide.
+I could tell in my escapades around the city just how much Doe’s candidacy was gaining traction. By September, a good quarter of the advertisements I saw were for him. As for Sidney, she rarely saw anything else - I suspect Doe had a contact in the NanoCore which he used to target her, with incredible success. Regardless of the cause, Sidney became more and more hostile, towards me, the rest of her staff, and the public. She clashed with all of her interviewers, and even with her own supporters. I watched a once promising political career crumble with my own eyes. 
+  
+
+
+
+By October, her standing had fallen so much that the election had become a formality. John Doe would undoubtedly be the next Mayor of New York City. The NanoCore would expand its power - the first brain implants would hit the market just a few years later. And the shockingly quick rise of the virtual politician would have cemented a brand new era in international policy.
+But as the November election approached, I was still working, now the only person who could possibly alter the results. I had long since switched to a fully internet-based investigation - to find John Doe, I would have to get into his head, and to do that I would have to live as terminally online as he did. As the morning of the election shifted from weeks to days to a mere 48 hours away, I ran searches on machines all over the globe, plugging in quite literally everything I had on him in search of an unencrypted data bank with a single nugget of information about him. Every word he had ever said in any rally or interview ever was being crunched in every moment.
+It was the late afternoon of the day before the election when I struck gold. I stared in disbelief at my computer screen, which displayed a match found from a list I had sent in a few hours prior, of all of Doe’s virtual rally locations in chronological order. My search displayed a link to a website which upon clicking I recognized to be an artificial intelligence, a sham of a software that some used for the same purpose that years ago would have been assigned to an advice column in the newspaper. It was an AI used for simple decision making - what suit to wear, or where to eat lunch on a given day. John Doe had generated a comprehensive list of hundreds of rally locations, each with a given date and time frame. In December. Four months before he had announced his campaign, six months before anyone had taken him seriously. And he had followed it exactly, without one deviation, to the end of a nearly perfect mayoral campaign.
+Now, as revelatory as this may seem, there was something much more important to me present on the site - an IP Address located at an apartment complex in Williamsburg. I struggled to control my legs as I scrambled out of my chair for the first time in days, feeling truly, really, alive for the first time in months. Sprinting past advertisements for software companies I had never heard of, I made my way to the subway bound for Williamsburg.
+[Perhaps a google earth video of commute to Williamsburg]
+The John Doe I encountered was much younger than his gray haired avatar, although his face bore a convincing resemblance to the man I was accustomed to, the face who I had lost months of my life to hunting down. By the time I reached him, my mind was somewhat lost from lack of sleep - I don’t remember how I ever got into his basement apartment - I must have pried open a skyward facing window with a disturbing vengeance far greater than anything that had controlled me in the past. I do remember a massive computer rig, larger than my own. As I yelled maniacally at him - in my state I was heavily agitated by his presence - he said only a few words to me that morning (it was now the early hours of Election Day), but I will never forget that smug enjoyment in his face - of finally having been caught yet knowing there was nothing I, nor Sidney, could do about it.
+“It’s not me, sir. It’s all AI-based. Always has been.”
+
+
+
+
+        I found myself outside, again, and I dialed up Sidney, one final time. The polls were opening. I prayed there was still a chance.
+
+
+
+
+
+
+
+
+15 Minutes Later
+
+
+
+
+Sidney: Doe
+
+
+Real Doe: Hargrave
+
+
+Sidney: I’ve debated John Doe, and talked to him privately a few times. But that wasn’t you, was it.
+
+
+Doe: No. We have never met. Allow me to introduce myself - my name is Jon Bredeson. I’m a -
+
+
+Sidney: Are you an agent of the NanoCore?
+
+
+Jon: I’m an amateur programmer, living in an illegal basement apartment. Turns out, it doesn’t take much to upend the government these days. I don’t blame you for being cautious. I feel sorry that my AI played you so hard on that.
+
+
+Sidney: I’m still the mayor, you realize. I can have you fined or arrested for the apartment.
+
+
+Jon: The polls are opening right now, Sidney. A phone call to the news websites can’t save you - they’ll need to fact-check everything you say before they publish anything, and by then it’ll be too late. John Doe will be the next mayor of New York whether you out me or not.
+
+
+Sidney: You’re acting as if you have the leverage here. I may be losing, but I have every chance to take you down with me.
+.
+.
+I did not come here to out you, Jon. I think we’re standing in a moment in history. We are two of three people in the world who know of the advancement of the AI politician. 
+
+
+Jon: What…  are you talking about
+
+
+Sidney: This world is much larger than our city, Jon.  Wouldn’t you like to have a little fun with it? You have the power to take over New York, why can’t you go larger? 
+.
+.
+What I’m saying is, you let me in on your operation. We’ll create more John Does, around the world. Artificial intelligences with the ability to end this Cold War
+
+
+Jon:
+In Asia?
+.
+.
+What’s the incentive for me?
+
+
+Sidney: I let Doe win—
+Jon: He’s gonna win anyway—
+Sidney: — AND 
+.
+And I don’t out you or him as a fake. Or as an illegal tenant.
+
+
+Jon:
+.
+.
+Ok
+.
+We’re gonna need a whole lot more computers for that.
+
+
+10 Hours Later
+ANCHOR: Good evening folks, and welcome to our special election night coverage of the race for Mayor of New York City. I'm your host, Al Mickelson, and we're coming to you live from the ABC7 studios here in New York.
+Until recent polls suggesting a large lead for challenger John Doe, this was expected to be the most highly contested mayoral election in decades. With all the polls now closed, we're finally starting to get a sense of the results that we’ve anticipated for months. Let's go to our chief political correspondent, Opal Skye, who's on the ground with the latest updates. Opal, what can you tell us?
+OPAL: Well, obviously Al, in all our years covering this city, we’ve never seen an election like this one. The whole world will be watching tonight, to see if Doe's virtual avatar will make a one-of-a-kind acceptance speech. 
+
+
+To that regard, we can now see that the first votes have been counted, down in Staten Island, where Doe owns 72% of the vote with around 40% of Richmond county reporting so far. Now, I wouldn’t say that this gives us any definitive answers, since the polling done on this race has shown that areas with more developed NanoCore infrastructure are actually more tentative to vote for the candidate supporting a continuation of the rapid expansion of the…
+
+
+ANCHOR: Opal, I’m seeing a lot more results hit the screen up here - can you let us know what these mean?
+
+
+OPAL: Oh my. There is no doubt about it at this point. Do you all see that green tinge to Brooklyn on this map? With almost 59% of the borough reporting, we’re seeing Mayor Hargrave behind in a region she needed to win by at least 10% to have a real shot in this race. I wouldn’t call it right now, but I would have to say, there’s a 99% chance at this point that YOUR next mayor is John Doe.
+
+
+ANCHOR: WOW. Now, to the numbers nerds, this will not come as a shock, but there are millions around the world who never anticipated that something like this could happen.
+.
+We’re gonna send you to the next room over, where reporter Ryan Lakeside is currently immersed in John Doe’s virtual rally, alongside some of his biggest supporters.
+
+
+RYAN *Through loud yelling: AL, THIS HERE IS ONYX LAVISTA - SHE’S A LONG TIME SUPPORTER OF JOHN DOE, EVEN BEFORE HIS RISE TO NATIONAL FAME DURING THIS MAYORAL RUN.
+
+
+ONYX: I TOLD YOU IT WAS GONNA HAPPEN. FIVE MONTHS AGO, NOBODY THOUGHT WE HAD A CHANCE.
+
+
+  
+
+
+
+
+
+ANCHOR: The audio seems to be very loud there in the rally, and without a physical microphone, we’re gonna be better off sticking right here in New York. Assuming the rest of the results come in tonight as expected, we’ll send you right back to Doe as soon has he makes a speech…
+
+
+ANCHOR: While we have a moment here to process the results, let’s get a little input from someone who knows the feelings going through John Doe’s body, somewhere in the physical plane, right now. Joining the show to discuss the massive implications of this result, former Mayor and longtime friend of the Station, Emily Rodriguez. Emily, talk to me…
+  
+
+
+
+
+
+
+
+
+
+  
+ 
+
+
+
+
+
+
+Violent Anti-War Protests Continue in Turkmenistan (2064): 
+AP: Ashgabat - 17:47 Local Time
+
+
+Two more Turkmen protesters were confirmed to have been killed on Thursday afternoon local time, as part of the ongoing protests against the Turkmen-Vietnamese War, which will soon enter its fifth month. The total death count from this week’s extensive protests, led by holographic ringleader Süleýman, has now reached thirteen.
+
+
+Süleýman’s strategy has followed in the footsteps of holographic politicians in the United States, who now occupy two seats in the American Senate, although many, including his own supporters, have criticized him for hiding physically when so many are suffering. He isn’t ideologically hiding, though - despite Turkmenistan’s status as defender, Süleýman is very critical of the war, reminding the masses of the mysterious disappearances of two Vietnamese ambassadors from the embassy in Ashgabat, which sparked conflict initially. These hundreds of thousands of Turkmen marching in Ashgabat serve as a nightmare scenario for the Turkman autocrat Mälik Berdimuhamedow, who local reporters believe to be in legitimate danger of being overthrown.
+
+
+Meanwhile, the global population remains equally worried about the currently cold conflict between Pakistan, and India, with the former providing weapons to Turkmenistan and the latter to Vietnam.
+
+
+After reading the Article
+Jon: Süleýman has been a success.
+.
+.
+Sidney, there’s a war going on. People were bound to die anyway; at least they’re going for the right cause.
+
+
+Sidney: You know that’s not how I see it.
+.
+I believe it's for good. I really do. But…
+.
+.
+I can’t just tell myself that it would be worse without us. These are thirteen real people who would be alive right now if we hadn’t created Süleýman. They all had lives, Jon. 
+
+
+Jon: I hate to say it, but this was all your idea, Sidney. I’m just along for the ride.
+
+
+Sidney: You know, all those four years when I was mayor, I felt like the most powerful person in the world. Not that the position is remotely comparable to the President these days. But I could shut down hundreds of schools in one command, and hundreds of trains with another. 
+.
+What we’re doing is on another level entirely. Maybe two levels above. We could completely reprogram Senator Carney’s ideology if we hadn’t coded him exactly as we wanted.
+.
+In fact, it’s more than power - it’s fortune-telling. I almost wish I didn’t know which day the Ashgabat takeover is planned for. But there it is - tomorrow, a lot more people are going to die and I can stop it. It has to mean something that I’m not going to.
+.
+You know what? I’m gonna head home. I could use some fresh air and some sleep.
+
+
+
+
+
+Walking Down the Street
+
+
+Stranger: Hold up. Are you Sidney Hargrave?
+Sidney: Yes?
+Stranger: Can I ask you a question? I voted for you, by the way. How do you feel about all these virtual people around the world? I mean, since you lost to Mayor Doe. 
+Sidney: Don’t have to remind me *smirk
+Stranger: Sorry.
+Sidney: Honestly? I’m afraid of them all. But I’d rather believe that if there are bad people behind the scenes, there are good people behind there as well, driving everything.
+Stranger: I feel like so many professions have become less sacred, less genuine. All of these wartime reporters and muckrakers using holograms are standing thousands of miles away from harm. There’s something so impersonal to everything, you know?
+SIdney: I know. 
+
+
+
+
+
+
+National Public Radio
+
+
+Welcome back to this extended edition of “24 hour NewsDay”, with our show now entering its 30th hour as the Coup d'état situation in Ashgabat, Turkmenistan appears to be ongoing, after eight hours of extreme violence in the capital.
+
+
+This event, led by who else, Süleýman, has sparked fears that it has suddenly brought world peace to its breaking point. A fall from grace from the voice of protest in a country known for harsh punishments could have sharp repercussions, leaving no end in sight for the people of Turkmenistan. On the other hand, it is unclear what kind of demands Süleýman would have were he able to take power.
+
+
+Our amazing holographic field reporter, Brian Hearthwell, tells us there’s something happening outside of the Presidential Palace in Ashgabat. Brian, what’s going on?
+
+
+Brian: I’m seeing a group of 20-30 people walking out of the palace. They’re walking towards the large flagpole just beyond the steps of the palace, and it looks like they’re going to raise a flag! There has been an agreement of some kind reached.
+.
+I can’t tell from this distance what kind of flag it is - whether it will be the traditional Turkmen flag, or the resistance flag, with a depiction on the right hand side of the head of the extinct Bactrian deer. 
+Here it comes - I’ll yell as soon as I can see it.
+
+
+  
+
+
+
+
+
+Tensions cease as India, Pakistan, dismantle nuclear infrastructure
+
+
+With the dismantling of much of India and Pakistan’s nuclear infrastructure nearing its completion, much of the world can now breathe a sigh of relief with the apparent end to the Second Cold War, one which had inspired fears of global nuclear disaster to the highest point to date since the First Cold War.
+
+
+
+
+
+
+Süleýman re-elected President of Turkmenistan in first democratic election in country’s history
+
+
+
+
+The former protest leader who has been at the helm of the country atop a military dictatorship since the fall of the old regime in 2064, won in a landslide, receiving 68.5% of the vote, over a list of opponents scattered all over the political spectrum. This result is a major victory for global democracy, as it was the first democratic election in Turkmenistan’s history.
+
+
+
+
+Back to Samir
+
+
+Samir: Mr. President, it was when Senator Carney announced his Presidential candidacy that I decided I had to step in
+
+
+President: Mr. [REDACTED], 
+.
+It’s a shame it took so long for this information to reach us. Why didn’t you say anything from the start?
+
+
+Samir: I trusted Sidney from the start, and I was right to do that - she’s been quietly instrumental to the borderline peace that we see in the world now.
+.
+Now I just think this is blunt overreach on her part - I can’t even be sure she’s in charge, or even Jon Bredeson for that matter.
+
+
+Presidential Aide: Mr. President, we’ve ran a search on Jon Bredeson, and everything Mr. [REDACTED] has said about him seems to check out.
+
+
+President: Thank you, Bobby.
+.
+.
+Mr. [REDACTED], I’m gonna book you a hotel room in Washington tonight. You’re gonna be doing a lot of talking these next few days.
+
+
+
+
+
+
+
+
+
+
+
+
+Image Credit:
+
+
+https://www.pinterest.com/pin/times-square-by-jonathanp45-on-deviantart--575194183630971294/
+
+
+
+
+https://knussey.files.wordpress.com/2015/04/wwfadelephant.jpg
+
+
+Doe Profile Pic from Dalle2
