@@ -1,45 +1,70 @@
-from gpt_index import SimpleDirectoryReader, GPTListIndex, GPTSimpleVectorIndex, LLMPredictor, PromptHelper
-from langchain.chat_models import ChatOpenAI
-import gradio as gr
-import sys
+from flask import Flask, render_template, request
+from flask_sock import Sock
+import openai
 import os
+app = Flask(__name__)
+sock = Sock(app)
 
 wd = os.path.dirname(os.path.realpath(__file__))
-file = open(wd + "/keys/key_openai.txt", "r")
-openaiKey = file.read()
-#print(openaiKey)
-file.close()
+with open(wd + "/keys/key_openai.txt", "r") as f:
+    key = f.read().strip('\n')
+openai.api_key = key
 
-os.environ["OPENAI_API_KEY"] = openaiKey
+data_filename = "scam"
+name = "Sam"
+with open(f'docs/{data_filename}.txt', 'r') as f:
+    background_info = f.read()
+content_msg = f'''
+{background_info}
+Pretend you are human named {name}
+that is going on a date with the user.  Try to seduce the user.
+Limit your responses to two or less sentences.
+'''
 
-def construct_index(directory_path):
-    max_input_size = 4096
-    num_outputs = 512
-    max_chunk_overlap = 20
-    chunk_size_limit = 600
+messages = [
+    {"role": "system", "content": content_msg},
+]
 
-    prompt_helper = PromptHelper(max_input_size, num_outputs, max_chunk_overlap, chunk_size_limit=chunk_size_limit)
+def chatbot(input):
+    if input:
+        messages.append({"role": "user", "content": input})
+        print("Messages: ")
+        print(messages)
+        chat = openai.ChatCompletion.create(
+            model="gpt-3.5-turbo", messages=messages
+        )
+        reply = chat.choices[0].message.content
+        messages.append({"role": "assistant", "content": reply})
+        return reply
 
-    llm_predictor = LLMPredictor(llm=ChatOpenAI(temperature=0.7, model_name="gpt-3.5-turbo", max_tokens=num_outputs))
+@app.route("/")       
+def hello_world():
+    return render_template('main.html')
 
-    documents = SimpleDirectoryReader(directory_path).load_data()
+@app.route('/chat')
+def index():
+    global messages, name
+    selection = request.args.get('selection')
+    name = selection
+    with open(f'docs/{name}.txt', 'r') as f:
+        background_info = f.read()
+        content_msg = f'''
+        {background_info}
+        Pretend you are human named {name}
+        that is going on a date with the user.  Try to seduce the user.
+        Limit your responses to two or less sentences.
+        '''
+    print(content_msg)
+    messages = [
+    {"role": "system", "content": content_msg},
+    ]
+    return render_template('chat.html')
 
-    index = GPTSimpleVectorIndex(documents, llm_predictor=llm_predictor, prompt_helper=prompt_helper)
+@sock.route('/echo')
+def echo(sock): 
+    while True:
+        data = sock.receive()
+        sock.send(f"{name.capitalize()}: {chatbot(data)}")
 
-    index.save_to_disk('index.json')
-
-    return index
-
-def chatbot(input_text):
-    index = GPTSimpleVectorIndex.load_from_disk('index.json')
-    response = index.query(input_text, response_mode="compact")
-    return response.response
-
-iface = gr.Interface(fn=chatbot,
-                     inputs=gr.components.Textbox(lines=7, label="Enter your text"),
-                     outputs="text",
-                     title="Custom-trained AI Chatbot")
-
-index = construct_index("docs")
-iface.launch(share=True)
-
+if __name__ == "__main__":
+    app.run()
