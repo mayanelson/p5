@@ -1,0 +1,92 @@
+/* We decided to use Bootstrap in conjunction with our own 
+stylesheet so we could customize our site to our liking */
+
+/* NAVBAR ================================================ */
+
+.navbar {
+    background-color:#E65DB4 
+}
+
+.navbar-brand {
+    color:#A5116F;
+    font-size: 25px;
+    padding-left: 20px;
+    text-shadow:
+        0.07em 0 white,
+        0 0.07em white,
+        -0.07em 0 white,
+        0 -0.07em white;
+}
+.navbar-brand-image {
+    margin-left:10px;
+    height:5%;
+    width:5%;
+} 
+
+/* BODY ==================================================== */
+
+.body { 
+    background: #FCE7F4;
+}
+.body-center {
+    margin-right: 20vw;
+    margin-left: 20vw;
+}
+
+/* LANDING PAGE ============================================ */
+
+.home-heading {
+    color: #F38CCE;
+    padding-left: 20px;
+}
+
+.heading{
+    color: #F38CCE;
+}
+.description {
+    opacity:0.7;
+    color:white;
+    font-size: 20px;
+}
+
+.home-button {
+    margin-right: 30px;
+    background-color: white;
+    font-size: 40px;
+    font-family: 'Courier New', monospace;
+    color: #A5116F     ;
+}
+
+.login-button {
+    background-color: white;
+}
+
+.map { 
+    height: 360px;
+    width: 360px;
+}
+
+.higherLowerButton {
+    width: 300px;
+    Height: 150px;
+}
+a{
+    text-decoration:none;
+}
+
+.paraText{
+    background-color: #F38CCE;
+    padding: 20px;
+    border-radius: 20px;
+    color: #A5116F
+}
+
+.names{
+    color: #A5116F;
+  
+}
+
+.margin {
+    margin-right: 20px;
+    margin-left: 20px;
+}
