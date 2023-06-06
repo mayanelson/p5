@@ -14,6 +14,8 @@ data_filename = "scam"
 name = "Sam"
 with open(f'docs/{data_filename}.txt', 'r') as f:
     background_info = f.read()
+
+
 content_msg = f'''
 {background_info}
 Pretend you are human named {name}
@@ -48,12 +50,17 @@ def index():
     name = selection
     with open(f'docs/{name}.txt', 'r') as f:
         background_info = f.read()
-        content_msg = f'''
-        {background_info}
-        Pretend you are human named {name}
-        that is going on a date with the user.  Try to seduce the user.
-        Limit your responses to two or less sentences.
-        '''
+        if name == "mykolyk":
+            content_msg = f'''
+            {background_info}
+            '''
+        else:
+            content_msg = f'''
+            {background_info}
+            Pretend you are human named {name}
+            that is going on a date with the user.  Try to seduce the user.
+            Limit your responses to two or less sentences.
+            '''
     print(content_msg)
     messages = [
     {"role": "system", "content": content_msg},
