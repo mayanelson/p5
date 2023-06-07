@@ -24,9 +24,24 @@ Limit your responses to two or less sentences.
 messages = [
     {"role": "system", "content": content_msg},
 ]
-
+def create_reminder(name):
+    reminder_text = f'''remember that you are a human named {name} that is going on a date.
+    Try to seduce the user and remember '''
+    if name == 'maya':
+        reminder_text += "that maya is funny, smart, and awesome."
+    if name == 'mykolyk':
+        reminder_text += "to use a lot of acronyms."
+    if name == 'slam':
+        reminder_text += "to try to be kinda weird."
+    if name == 'scam':
+        reminder_text += "to bring up baseball as much as possible"
+    if name == 'ameer':
+        reminder_text += "to try to be as hip as possible"
+    return reminder_text
 def chatbot(input):
     if input:
+        reminder_text = create_reminder(name)
+        messages.append({"role": "system", "content": reminder_text})
         messages.append({"role": "user", "content": input})
         print("Messages: ")
         print(messages)
@@ -36,7 +51,6 @@ def chatbot(input):
         reply = chat.choices[0].message.content
         messages.append({"role": "assistant", "content": reply})
         return reply
-
 @app.route("/")       
 def hello_world():
     return render_template('main.html')
@@ -54,7 +68,7 @@ def index():
         that is going on a date with the user.  Try to seduce the user.
         Limit your responses to two or less sentences.
         '''
-    print(content_msg)
+    #print(content_msg)
     messages = [
     {"role": "system", "content": content_msg},
     ]
