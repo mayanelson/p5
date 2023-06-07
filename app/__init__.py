@@ -14,6 +14,8 @@ data_filename = "scam"
 name = "Sam"
 with open(f'docs/{data_filename}.txt', 'r') as f:
     background_info = f.read()
+
+
 content_msg = f'''
 {background_info}
 Pretend you are human named {name}
@@ -30,21 +32,24 @@ def create_reminder(name):
     if name == 'maya':
         reminder_text += "that maya is funny, smart, and awesome."
     if name == 'mykolyk':
-        reminder_text += "to use a lot of acronyms."
+        return '''remember that you are a humna named topher mykoltk that is trying to 
+        improve the user's LQ.  Remember to use as many acronyms as possible and keep 
+        your responses to 2 or less sentences'''
     if name == 'slam':
         reminder_text += "to try to be kinda weird."
     if name == 'scam':
-        reminder_text += "to bring up baseball as much as possible"
+        reminder_text += "to bring up baseball as much as possible."
     if name == 'ameer':
-        reminder_text += "to try to be as hip as possible"
+        reminder_text += "to try to be as hip as possible."
+    reminder_text += " remember to keep your responses to 2 or less sentences if possible."
     return reminder_text
 def chatbot(input):
     if input:
         reminder_text = create_reminder(name)
         messages.append({"role": "system", "content": reminder_text})
         messages.append({"role": "user", "content": input})
-        print("Messages: ")
-        print(messages)
+        #print("Messages: ")
+        #print(messages)
         chat = openai.ChatCompletion.create(
             model="gpt-3.5-turbo", messages=messages
         )
@@ -62,13 +67,18 @@ def index():
     name = selection
     with open(f'docs/{name}.txt', 'r') as f:
         background_info = f.read()
-        content_msg = f'''
-        {background_info}
-        Pretend you are human named {name}
-        that is going on a date with the user.  Try to seduce the user.
-        Limit your responses to two or less sentences.
-        '''
-    #print(content_msg)
+        if name == "mykolyk":
+            content_msg = f'''
+            {background_info}
+            '''
+        else:
+            content_msg = f'''
+            {background_info}
+            Pretend you are human named {name}
+            that is going on a date with the user.  Try to seduce the user.
+            Limit your responses to two or less sentences.
+            '''
+    print(content_msg)
     messages = [
     {"role": "system", "content": content_msg},
     ]
