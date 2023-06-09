@@ -43,6 +43,16 @@ def create_reminder(name):
         reminder_text += "to try to be as hip as possible."
     reminder_text += " remember to keep your responses to 2 or less sentences if possible."
     return reminder_text
+def get_rating(msg):
+    query = f'''
+remembering that you are a contractor that provides out services for rating how romantic a message is from 1-100, rate how romantic the message "{msg}" is on a scale from 1-100. Write only the number out of 100 with no explanation
+'''
+    result = chatbot(query)
+    only_numbers = ''.join(c for c in result if c.isdigit())
+    if only_numbers.isnumeric():
+        return int(only_numbers)
+    else:
+        return 0
 def chatbot(input):
     if input:
         reminder_text = create_reminder(name)
@@ -78,7 +88,7 @@ def index():
             that is going on a date with the user.  Try to seduce the user.
             Limit your responses to two or less sentences.
             '''
-    print(content_msg)
+    #print(content_msg)
     messages = [
     {"role": "system", "content": content_msg},
     ]
@@ -88,7 +98,10 @@ def index():
 def echo(sock): 
     while True:
         data = sock.receive()
-        sock.send(f"{name.capitalize()}: {chatbot(data)}")
+        reply = chatbot(data)
+        sock.send(f"{name.capitalize()}: {reply}")
+        #print("response romanticness rating is: ")
+        #print(get_rating(reply))
 
 if __name__ == "__main__":
     app.run()
