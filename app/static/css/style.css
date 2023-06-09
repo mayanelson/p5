@@ -90,3 +90,21 @@ a{
     margin-right: 20px;
     margin-left: 20px;
 }
+
+.pink{
+    background-color: #F38CCE;
+}
+
+/*Right triangle, placed bottom left side slightly in*/
+.tri-right.border.btm-left-in:before {
+	content: ' ';
+	position: absolute;
+	width: 0;
+	height: 0;
+	left: 30px;
+    right: auto;
+    top: auto;
+	bottom: -40px;
+	border: 20px solid;
+	border-color: #F38CCE transparent transparent #F38CCE;
+}
