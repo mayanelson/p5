@@ -90,3 +90,38 @@ a{
     margin-right: 20px;
     margin-left: 20px;
 }
+
+.pink{
+    background-color: #F38CCE;
+}
+
+/*Right triangle, placed bottom left side slightly in*/
+.tri-right.border.btm-left-in:before {
+	content: ' ';
+	position: absolute;
+	width: 0;
+	height: 0;
+	left: 30px;
+    right: auto;
+    top: auto;
+	bottom: -40px;
+	border: 20px solid;
+	border-color: #F38CCE transparent transparent #F38CCE;
+}
+
+.ameer{ /*Image should be right-aligned, slight margin right, and border 5px, also near top of screen*/
+    float: right;
+    margin-right: 20px;
+    border: 5px solid #A5116F;
+}
+
+.nme{
+    color:#A5116F;
+    font-size: 50px;
+    /*padding-left: 20px;*/
+    text-shadow:
+        0.07em 0 white,
+        0 0.07em white,
+        -0.07em 0 white,
+        0 -0.07em white;
+}
