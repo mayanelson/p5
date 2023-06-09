@@ -92,7 +92,7 @@ def index():
     messages = [
     {"role": "system", "content": content_msg},
     ]
-    return render_template('chat.html', nm=name.capitalize())
+    return render_template('chat.html', nm=name)
 
 @sock.route('/echo')
 def echo(sock): 
