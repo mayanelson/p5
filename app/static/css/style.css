@@ -108,3 +108,20 @@ a{
 	border: 20px solid;
 	border-color: #F38CCE transparent transparent #F38CCE;
 }
+
+.ameer{ /*Image should be right-aligned, slight margin right, and border 5px, also near top of screen*/
+    float: right;
+    margin-right: 20px;
+    border: 5px solid #A5116F;
+}
+
+.nme{
+    color:#A5116F;
+    font-size: 50px;
+    /*padding-left: 20px;*/
+    text-shadow:
+        0.07em 0 white,
+        0 0.07em white,
+        -0.07em 0 white,
+        0 -0.07em white;
+}
