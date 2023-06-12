@@ -22,3 +22,8 @@ mayaN -- 2023-06-05 8:00
 feedback from design doc: more specific site map, elaborate on
 heart system, explain how we're bypassing the $$$ required for the
 chatgpt api.
+
+samL -- 2023-06-06 8:40
+--------------------------------------------------------------
+Worked on integrating all of the major parts of the site together:
+the api, the home webpage and the chat webpage.
