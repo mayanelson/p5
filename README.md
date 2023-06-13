@@ -10,25 +10,21 @@ Also shoutout to Slam because this websocket stuff is nonsensical
 
 To run it locally with your own API key (we would prefer this):
 
-First, clone the repo into a folder
-`git clone git@github.com:mayanelson/p5.git`
-cd into the repo
-`cd p5`
-Create a virtual environment (optional)
-`python3 -m venv <venvName>`
-`source <venvName>/bin/activate`
-Install dependencies (this takes a long time)
-`pip install -r requirements.txt`
-Procure API key at https://platform.openai.com/account/api-keys
-You may need to create an account or sign in to proceed. 
-Each new account comes with $5 of free API credit which is more than enough to try out Yamorous Hearts, but if you have an account older than ~3 months your credit will have already expired. 
-Each account is connected to a unique (and not virtual) phone number, which makes getting a second account difficult
-`nano app/keys/key_openai.txt`
-paste in your API key. Make sure to store it somewhere else too, since openai only shows it you once. Just don't push it to github
-Now, you're ready to run the program
-`cd app`
-`python3 __init__.py`
-
-
-
-Note: Requirements.txt may change a lot as we figure out the compatibility of different llm libraries
+First, clone the repo into a folder  
+`git clone git@github.com:mayanelson/p5.git`  
+cd into the repo  
+`cd p5`  
+Create a virtual environment (optional)  
+`python3 -m venv <venvName>`  
+`source <venvName>/bin/activate`  
+Install dependencies (this takes a long time)  
+`pip install -r requirements.txt`  
+Procure API key at https://platform.openai.com/account/api-keys  
+You may need to create an account or sign in to proceed.  
+Each new account comes with $5 of free API credit which is more than enough to try out Yamorous Hearts, but if you have an account older than ~3 months your  credit will have already expired.  
+Each account is connected to a unique (and not virtual) phone number, which makes getting a second account difficult  
+`nano app/keys/key_openai.txt`  
+paste in your API key. Make sure to store it somewhere else too, since openai only shows it you once. Just don't push it to github  
+Now, you're ready to run the program  
+`cd app`  
+`python3 __init__.py`  
